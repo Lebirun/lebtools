@@ -1,0 +1,6 @@
+#ifndef LEBTOOLS_VERSION_H
+#define LEBTOOLS_VERSION_H
+
+#define LEBTOOLS_VERSION "0.1.0"
+
+#endif
